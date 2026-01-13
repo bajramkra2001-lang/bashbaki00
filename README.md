@@ -1,5 +1,4 @@
-https://USERNAME.github.io/bashbaki23-game/
-<!DOCTYPE html>
+
 <html lang="sq">
 <head>
 <meta charset="UTF-8">
